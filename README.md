@@ -44,7 +44,7 @@ It enables groups to contribute stable amounts in **USDT**, rotating payouts to 
 To deploy and test:
 
 ```bash
-git clone https://github.com/chiringa-3/xitique-smart-contract.git
+git clone https://github.com/chiringa-3/xitique-Onchain.git
 cd xitique-smart-contract
 
 # compile with your preferred framework (e.g. Hardhat, Foundry, Remix)
