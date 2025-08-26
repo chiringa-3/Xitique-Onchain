@@ -1,11 +1,11 @@
 # Xitique-Onchain
 
 **Xitique Web3** is a decentralized community savings contract (ROSCA model) built on Solidity.  
-It enables groups to contribute stable amounts in **USDC**, rotating payouts to members based on various mechanisms.
+It enables groups to contribute stable amounts in **USDT**, rotating payouts to members based on various mechanisms.
 
 ## 🧩 Features
 
-- 💸 **Periodic contributions** in USDC
+- 💸 **Periodic contributions** in USDT
 - 🌀 **Flexible payout selection modes**:
   - Rotation (round-robin)
   - Auction (highest bidder wins)
@@ -19,7 +19,7 @@ It enables groups to contribute stable amounts in **USDC**, rotating payouts to 
 ## ⚙️ Technical Details
 
 - Written in **Solidity `^0.8.20`**
-- Works with any **ERC-20 token** (designed for USDC)
+- Works with any **ERC-20 token** (designed for USDT)
 - Includes **reentrancy guard**
 - Emits detailed **events** for full transparency
 - Modular design for cycle logic, membership, and governance
@@ -44,7 +44,7 @@ It enables groups to contribute stable amounts in **USDC**, rotating payouts to 
 To deploy and test:
 
 ```bash
-git clone https://github.com/your-username/xitique-smart-contract.git
+git clone https://github.com/chiringa-3/xitique-smart-contract.git
 cd xitique-smart-contract
 
 # compile with your preferred framework (e.g. Hardhat, Foundry, Remix)
