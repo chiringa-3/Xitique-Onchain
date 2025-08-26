@@ -1,0 +1,14 @@
+[
+  {
+    "type": "constructor",
+    "inputs": [],
+    "stateMutability": "nonpayable"
+  },
+  {
+    "type": "function",
+    "name": "placeholder",
+    "inputs": [],
+    "outputs": [],
+    "stateMutability": "view"
+  }
+]
