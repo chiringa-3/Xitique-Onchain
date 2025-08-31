@@ -1,0 +1,171 @@
+Build a fast, responsive one-page landing site for XITIQUE OnChain (a Web3 ROSCA on Hedera). I will upload the logo file; use it in the navbar and hero. Keep it clean, modern, mobile-first, and accessible (WCAG AA). Prefer a neutral light look with bold accents.
+
+Brand & Visual Direction
+
+Vibe: trust + community + innovation.
+
+Colors: neutral base (white/near-white), charcoal text, accent inspired by African textile tones (emerald/teal + warm gold). Use accents sparingly for buttons, links, and highlights.
+
+Typography: geometric sans for headings, humanist sans for body. Strong hierarchy.
+
+Subtle micro-animations (fade/slide) on hero headline, CTA buttons, and feature cards. Smooth scroll.
+
+
+Structure (Single Page)
+
+1. Sticky Navbar
+
+Left: XITIQUE logo (uploaded).
+
+Right links (scroll): About, How it Works, Features, Tech, Team, FAQ, Contact.
+
+CTA button: “Follow on X”.
+
+
+
+2. Hero (above the fold)
+
+Headline: “From Tradition to Blockchain.”
+
+Subheadline: “XITIQUE modernizes community savings (ROSCA) with Hedera smart contracts—secure, transparent, and borderless.”
+
+Primary CTA: “Join the Movement” (links to Discord: https://discord.gg/NHjRZzYC)
+
+Secondary CTA (outline): “Read the Litepaper” (links to https://living-bowl-f51.notion.site/Whitepaper-122d53cbd8c28060826fc2f36e511014)
+
+Background: subtle mesh/gradient with a faint network motif.
+
+
+
+3. About
+
+“In many African communities, Xitique (ROSCA) means trust, discipline, and mutual support. XITIQUE OnChain turns that tradition into a Web3 experience—so groups can contribute and rotate funds with clarity and automation.”
+
+
+
+4. Problem → Solution
+
+Problems (icons): lack of transparency, borders & banking friction, manual enforcement.
+
+Solutions: automated contributions & penalties, auditable history, global access, non-custodial design.
+
+
+
+5. How It Works
+
+4 steps with numbered cards:
+
+1. Create or join a contribution group
+
+
+2. Set amount & frequency
+
+
+3. Smart contract automates contributions & rules
+
+
+4. Receive the pooled funds on your turn
+
+
+
+
+
+6. Key Features
+
+Blockchain Security — “Trust the code, not a middleman.”
+
+Full Transparency — “Every contribution. Publicly auditable.”
+
+Automated Rules — “On-time payments. Fair rotations.”
+
+Global Access — “Save together, across borders.”
+
+
+
+7. Tech Stack
+
+Built on Hedera, Prisma, Replit, etc.
+
+Badge: “Hedera Africa Hackathon 2025”.
+
+
+
+8. Team
+
+Simple grid with avatar placeholders, name, role, 1-line bio.
+Team Section
+
+Luis Chiringatambo – Founder & Technical Lead
+Blockchain enthusiast and DeFi builder, leading the vision, strategy, and technical direction of XITIQUE. Passionate about financial inclusion and decentralized solutions.
+
+Sinesipho – Product Developer & Design Student
+Passionate about building user-centered products. Combines product development skills with design expertise to create intuitive Web3 experiences.
+
+Abdullahi – Web3 Content Creator
+Specializes in creating engaging educational content for blockchain and decentralized finance. Focused on storytelling and community growth for XITIQUE.
+
+
+
+9. Roadmap
+
+M1: Ideation & UX prototype
+
+M2: Smart contract PoC
+
+M3: Testnet group trials
+
+M4: Security review & community pilot
+
+
+
+10. FAQ
+
+What is a ROSCA?
+
+Why Hedera?
+
+Is XITIQUE custodial?
+
+How do penalties work?
+
+When can I try it?
+
+
+
+11. Final CTA / Social
+
+“Follow our journey on X” → https://x.com/xitiqueonchain
+
+“Join the Community” → https://discord.gg/NHjRZzYC
+
+
+
+12. Footer
+
+Copyright, quick links, contact.
+
+
+
+
+Links & Placeholders
+
+X (Twitter): https://x.com/xitiqueonchain
+
+Litepaper: https://living-bowl-f51.notion.site/Whitepaper-122d53cbd8c28060826fc2f36e511014
+
+Community/Discord: https://discord.gg/NHjRZzYC
+
+Contact email: team@xitique.com (placeholder, update later)
+
+
+Functional Requirements
+
+Smooth anchor scrolling.
+
+Sticky nav with active-section highlight.
+
+Accessible focus states and ARIA where appropriate.
+
+SEO ready (meta, OG tags, favicon).
+
+Contact form (validate, success toast, no backend for now).
