@@ -115,8 +115,8 @@ Driven by the mission to promote **financial inclusion and digital empowerment**
 ---
 
 ## 📎 Certifications & Pitch Deck 
-- Hedera Certification PDF: *docs/Hashgraph Developer Course Certificate.pdf*
-- Pitch Deck PDF: *docs/Xitique-Onchain-Decentralized-Community- Pitch deck.pdf* 
+- Hedera Certification PDF: *docs/Hashgraph_Developer_Course_Certificate.pdf*
+- Pitch Deck PDF: *docs/Xitique-Onchain-Decentralized-Community-_Pitch_deck.pdf* 
  
 ---
 
