@@ -114,12 +114,9 @@ Driven by the mission to promote **financial inclusion and digital empowerment**
 
 ---
 
-## 📎 Pitch Deck & Certifications
-- [Pitch Deck (PDF)](docs/pitch_deck.pdf)  
+## 📎 Certifications 
 - Hedera Certification: *link_here*  
-- Solidity Certification: *link_here*  
-- Chainlink / Oracles Certification: *link_here*  
-
+ 
 ---
 
 ## 🧩 Features
