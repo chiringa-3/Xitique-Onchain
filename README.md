@@ -91,13 +91,6 @@ Idle funds between rounds can be invested in **DeFi protocols (like Aave)** to g
 
 ---
 
-## 👤 Founder
-**Luis Chiringatambo**   
-Experienced in **DeFi**, **Web3 testing**, and **smart contract integration**.  
-Driven by the mission to promote **financial inclusion and digital empowerment** across Africa.
-
----
-
 ## 🚀 Current Stage
 - ✅ Smart contract developed in Solidity  
 - ✅ App prototype completed  
@@ -116,7 +109,7 @@ Driven by the mission to promote **financial inclusion and digital empowerment**
 
 ## 📎 Certifications & Pitch Deck 
 - Hedera Certification PDF: (docs/Hashgraph Developer Course Certificate.pdf)
-- Pitch Deck PDF: (docs/Xitique-Onchain-Decentralized-Community-_Pitch_deck.pdf) 
+- Pitch Deck PDF: (docs/Xitique-Onchain-Decentralized-Community- Pitch deck.pdf) 
  
 ---
 
